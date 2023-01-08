@@ -1,0 +1,32 @@
+[0.058s] Invoking command in '/home/anoushka/ros_workspace/src/build/rrbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/anoushka/ros_workspace/src/install/opencv_test_py:/home/anoushka/ros_workspace/src/install/my_package:/home/anoushka/ros_workspace/src/install/euler_to_quat:/opt/ros/humble /usr/bin/cmake --build /home/anoushka/ros_workspace/src/build/rrbot_description -- -j12 -l12
+[1.063s] Invoked command in '/home/anoushka/ros_workspace/src/build/rrbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/anoushka/ros_workspace/src/install/opencv_test_py:/home/anoushka/ros_workspace/src/install/my_package:/home/anoushka/ros_workspace/src/install/euler_to_quat:/opt/ros/humble /usr/bin/cmake --build /home/anoushka/ros_workspace/src/build/rrbot_description -- -j12 -l12
+[1.101s] Invoking command in '/home/anoushka/ros_workspace/src/build/rrbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/anoushka/ros_workspace/src/install/opencv_test_py:/home/anoushka/ros_workspace/src/install/my_package:/home/anoushka/ros_workspace/src/install/euler_to_quat:/opt/ros/humble /usr/bin/cmake --install /home/anoushka/ros_workspace/src/build/rrbot_description
+[1.110s] -- Install configuration: ""
+[1.111s] -- Execute custom install script
+[1.111s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/config/rrbot.rviz
+[1.112s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/gazebo/rrbot.gazebo.xacro
+[1.112s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/gazebo/rrbot.materials.xacro
+[1.112s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/meshes/hokuyo.dae
+[1.112s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/launch/object_spawn.launch.py
+[1.113s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/launch/view_robot.launch.py
+[1.113s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/ros2_control/rrbot.ros2_control.xacro
+[1.113s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/urdf/object.urdf
+[1.113s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/urdf/rrbot.urdf.xacro
+[1.114s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/urdf/rrbot_description.urdf.xacro
+[1.114s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/environment/rrbot_description.dsv
+[1.114s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/ament_index/resource_index/package_run_dependencies/rrbot_description
+[1.114s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/ament_index/resource_index/parent_prefix_path/rrbot_description
+[1.115s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/environment/ament_prefix_path.sh
+[1.115s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/environment/ament_prefix_path.dsv
+[1.115s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/environment/path.sh
+[1.115s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/environment/path.dsv
+[1.116s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/local_setup.bash
+[1.116s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/local_setup.sh
+[1.116s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/local_setup.zsh
+[1.116s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/local_setup.dsv
+[1.116s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/package.dsv
+[1.129s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/ament_index/resource_index/packages/rrbot_description
+[1.129s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/cmake/rrbot_descriptionConfig.cmake
+[1.130s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/cmake/rrbot_descriptionConfig-version.cmake
+[1.130s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/package.xml
+[1.133s] Invoked command in '/home/anoushka/ros_workspace/src/build/rrbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/anoushka/ros_workspace/src/install/opencv_test_py:/home/anoushka/ros_workspace/src/install/my_package:/home/anoushka/ros_workspace/src/install/euler_to_quat:/opt/ros/humble /usr/bin/cmake --install /home/anoushka/ros_workspace/src/build/rrbot_description

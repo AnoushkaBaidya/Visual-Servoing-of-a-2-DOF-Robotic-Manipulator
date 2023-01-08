@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+opencv_test_py/__init__.py
+opencv_test_py/test1.py
+opencv_test_py.egg-info/PKG-INFO
+opencv_test_py.egg-info/SOURCES.txt
+opencv_test_py.egg-info/dependency_links.txt
+opencv_test_py.egg-info/entry_points.txt
+opencv_test_py.egg-info/requires.txt
+opencv_test_py.egg-info/top_level.txt
+opencv_test_py.egg-info/zip-safe
+resource/opencv_test_py

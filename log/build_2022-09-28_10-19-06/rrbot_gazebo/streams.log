@@ -1,0 +1,47 @@
+[0.012s] Invoking command in '/home/anoushka/ros_workspace/src/build/rrbot_gazebo': CMAKE_PREFIX_PATH=/home/anoushka/ros_workspace/src/install/rrbot_description:/home/anoushka/ros_workspace/src/install/rrbot_gazebo:/home/anoushka/ros_workspace/install/rrbot_gazebo:/home/anoushka/ros_workspace/install/rrbot_description_ros2:/home/anoushka/ros_workspace/install/rrbot_description:/home/anoushka/ros_workspace/src/install/my_package:/home/anoushka/ros_workspace/src/install/euler_to_quat:/home/anoushka/ros_workspace/install/my_package:/home/anoushka/ros_workspace/install/euler_to_quat:/opt/ros/humble /usr/bin/cmake /home/anoushka/ros_workspace/src/rrbot_simulation_files/rrbot_gazebo -DCMAKE_INSTALL_PREFIX=/home/anoushka/ros_workspace/src/install/rrbot_gazebo
+[0.023s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.181s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.188s] -- Found rclcpp: 16.0.1 (/opt/ros/humble/share/rclcpp/cmake)
+[0.222s] -- Found rosidl_generator_c: 3.1.3 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.224s] -- Found rosidl_adapter: 3.1.3 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.231s] -- Found rosidl_generator_cpp: 3.1.3 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.244s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.261s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.329s] -- Found rmw_implementation_cmake: 6.1.0 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.331s] -- Found rmw_fastrtps_cpp: 6.2.1 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.456s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.661s] -- Configuring done
+[0.666s] -- Generating done
+[0.667s] -- Build files have been written to: /home/anoushka/ros_workspace/src/build/rrbot_gazebo
+[0.674s] Invoked command in '/home/anoushka/ros_workspace/src/build/rrbot_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/anoushka/ros_workspace/src/install/rrbot_description:/home/anoushka/ros_workspace/src/install/rrbot_gazebo:/home/anoushka/ros_workspace/install/rrbot_gazebo:/home/anoushka/ros_workspace/install/rrbot_description_ros2:/home/anoushka/ros_workspace/install/rrbot_description:/home/anoushka/ros_workspace/src/install/my_package:/home/anoushka/ros_workspace/src/install/euler_to_quat:/home/anoushka/ros_workspace/install/my_package:/home/anoushka/ros_workspace/install/euler_to_quat:/opt/ros/humble /usr/bin/cmake /home/anoushka/ros_workspace/src/rrbot_simulation_files/rrbot_gazebo -DCMAKE_INSTALL_PREFIX=/home/anoushka/ros_workspace/src/install/rrbot_gazebo
+[0.675s] Invoking command in '/home/anoushka/ros_workspace/src/build/rrbot_gazebo': CMAKE_PREFIX_PATH=/home/anoushka/ros_workspace/src/install/rrbot_description:/home/anoushka/ros_workspace/src/install/rrbot_gazebo:/home/anoushka/ros_workspace/install/rrbot_gazebo:/home/anoushka/ros_workspace/install/rrbot_description_ros2:/home/anoushka/ros_workspace/install/rrbot_description:/home/anoushka/ros_workspace/src/install/my_package:/home/anoushka/ros_workspace/src/install/euler_to_quat:/home/anoushka/ros_workspace/install/my_package:/home/anoushka/ros_workspace/install/euler_to_quat:/opt/ros/humble /usr/bin/cmake --build /home/anoushka/ros_workspace/src/build/rrbot_gazebo -- -j12 -l12
+[0.699s] [35m[1mConsolidate compiler generated dependencies of target publisher[0m
+[0.710s] [ 50%] [32mBuilding CXX object CMakeFiles/publisher.dir/src/position_publisher.cpp.o[0m
+[3.637s] [100%] [32m[1mLinking CXX executable publisher[0m
+[3.762s] [100%] Built target publisher
+[3.773s] Invoked command in '/home/anoushka/ros_workspace/src/build/rrbot_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/anoushka/ros_workspace/src/install/rrbot_description:/home/anoushka/ros_workspace/src/install/rrbot_gazebo:/home/anoushka/ros_workspace/install/rrbot_gazebo:/home/anoushka/ros_workspace/install/rrbot_description_ros2:/home/anoushka/ros_workspace/install/rrbot_description:/home/anoushka/ros_workspace/src/install/my_package:/home/anoushka/ros_workspace/src/install/euler_to_quat:/home/anoushka/ros_workspace/install/my_package:/home/anoushka/ros_workspace/install/euler_to_quat:/opt/ros/humble /usr/bin/cmake --build /home/anoushka/ros_workspace/src/build/rrbot_gazebo -- -j12 -l12
+[3.789s] Invoking command in '/home/anoushka/ros_workspace/src/build/rrbot_gazebo': CMAKE_PREFIX_PATH=/home/anoushka/ros_workspace/src/install/rrbot_description:/home/anoushka/ros_workspace/src/install/rrbot_gazebo:/home/anoushka/ros_workspace/install/rrbot_gazebo:/home/anoushka/ros_workspace/install/rrbot_description_ros2:/home/anoushka/ros_workspace/install/rrbot_description:/home/anoushka/ros_workspace/src/install/my_package:/home/anoushka/ros_workspace/src/install/euler_to_quat:/home/anoushka/ros_workspace/install/my_package:/home/anoushka/ros_workspace/install/euler_to_quat:/opt/ros/humble /usr/bin/cmake --install /home/anoushka/ros_workspace/src/build/rrbot_gazebo
+[3.794s] -- Install configuration: ""
+[3.794s] -- Execute custom install script
+[3.795s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/lib/rrbot_gazebo/publisher
+[3.795s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/launch/object_spawn.launch.py
+[3.801s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/launch/rrbot_world.launch.py
+[3.801s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/worlds/rrbot.world
+[3.801s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/config/controllers.yaml
+[3.802s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/config/gazebo_controllers.yaml
+[3.802s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/ament_index/resource_index/package_run_dependencies/rrbot_gazebo
+[3.802s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/ament_index/resource_index/parent_prefix_path/rrbot_gazebo
+[3.802s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/environment/ament_prefix_path.sh
+[3.802s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/environment/ament_prefix_path.dsv
+[3.802s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/environment/path.sh
+[3.803s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/environment/path.dsv
+[3.803s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/local_setup.bash
+[3.803s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/local_setup.sh
+[3.803s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/local_setup.zsh
+[3.803s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/local_setup.dsv
+[3.803s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/package.dsv
+[3.810s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/ament_index/resource_index/packages/rrbot_gazebo
+[3.810s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/cmake/rrbot_gazeboConfig.cmake
+[3.810s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/cmake/rrbot_gazeboConfig-version.cmake
+[3.810s] -- Up-to-date symlink: /home/anoushka/ros_workspace/src/install/rrbot_gazebo/share/rrbot_gazebo/package.xml
+[3.814s] Invoked command in '/home/anoushka/ros_workspace/src/build/rrbot_gazebo' returned '0': CMAKE_PREFIX_PATH=/home/anoushka/ros_workspace/src/install/rrbot_description:/home/anoushka/ros_workspace/src/install/rrbot_gazebo:/home/anoushka/ros_workspace/install/rrbot_gazebo:/home/anoushka/ros_workspace/install/rrbot_description_ros2:/home/anoushka/ros_workspace/install/rrbot_description:/home/anoushka/ros_workspace/src/install/my_package:/home/anoushka/ros_workspace/src/install/euler_to_quat:/home/anoushka/ros_workspace/install/my_package:/home/anoushka/ros_workspace/install/euler_to_quat:/opt/ros/humble /usr/bin/cmake --install /home/anoushka/ros_workspace/src/build/rrbot_gazebo

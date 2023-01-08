@@ -1,0 +1,25 @@
+[1.162s] Invoking command in '/home/anoushka/ros_workspace/src/build/euler_to_quat': PYTHONPATH=/home/anoushka/ros_workspace/src/install/euler_to_quat/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/anoushka/ros_workspace/src/install/euler_to_quat --editable --build-directory /home/anoushka/ros_workspace/src/build/euler_to_quat/build --no-deps install_data --install-dir /home/anoushka/ros_workspace/src/install/euler_to_quat
+[1.475s] running develop
+[1.476s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.476s]   warnings.warn(
+[1.477s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.477s]   warnings.warn(
+[1.543s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.543s]   warnings.warn(
+[1.543s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.544s]   warnings.warn(
+[1.652s] running egg_info
+[1.652s] writing euler_to_quat.egg-info/PKG-INFO
+[1.652s] writing dependency_links to euler_to_quat.egg-info/dependency_links.txt
+[1.652s] writing entry points to euler_to_quat.egg-info/entry_points.txt
+[1.653s] writing requirements to euler_to_quat.egg-info/requires.txt
+[1.653s] writing top-level names to euler_to_quat.egg-info/top_level.txt
+[1.655s] reading manifest file 'euler_to_quat.egg-info/SOURCES.txt'
+[1.655s] writing manifest file 'euler_to_quat.egg-info/SOURCES.txt'
+[1.657s] running build_ext
+[1.657s] Creating /home/anoushka/ros_workspace/src/install/euler_to_quat/lib/python3.10/site-packages/euler-to-quat.egg-link (link to .)
+[1.658s] Installing listener script to /home/anoushka/ros_workspace/src/install/euler_to_quat/lib/euler_to_quat
+[1.659s] 
+[1.659s] Installed /home/anoushka/ros_workspace/src/build/euler_to_quat
+[1.659s] running install_data
+[1.697s] Invoked command in '/home/anoushka/ros_workspace/src/build/euler_to_quat' returned '0': PYTHONPATH=/home/anoushka/ros_workspace/src/install/euler_to_quat/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/anoushka/ros_workspace/src/install/euler_to_quat --editable --build-directory /home/anoushka/ros_workspace/src/build/euler_to_quat/build --no-deps install_data --install-dir /home/anoushka/ros_workspace/src/install/euler_to_quat

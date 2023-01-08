@@ -1,0 +1,50 @@
+[0.017s] Invoking command in '/home/anoushka/ros_workspace/src/build/rrbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/anoushka/ros_workspace/install/my_package:/home/anoushka/ros_workspace/install/euler_to_quat:/opt/ros/humble /usr/bin/cmake /home/anoushka/ros_workspace/src/rrbot_simulation_files/rrbot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/anoushka/ros_workspace/src/install/rrbot_description
+[0.172s] -- The C compiler identification is GNU 11.2.0
+[0.172s] -- The CXX compiler identification is GNU 11.2.0
+[0.172s] -- Detecting C compiler ABI info
+[0.172s] -- Detecting C compiler ABI info - done
+[0.172s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.172s] -- Detecting C compile features
+[0.173s] -- Detecting C compile features - done
+[0.173s] -- Detecting CXX compiler ABI info
+[0.198s] -- Detecting CXX compiler ABI info - done
+[0.204s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.204s] -- Detecting CXX compile features
+[0.204s] -- Detecting CXX compile features - done
+[0.206s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.321s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.362s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.455s] -- Configuring done
+[0.457s] -- Generating done
+[0.458s] -- Build files have been written to: /home/anoushka/ros_workspace/src/build/rrbot_description
+[0.461s] Invoked command in '/home/anoushka/ros_workspace/src/build/rrbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/anoushka/ros_workspace/install/my_package:/home/anoushka/ros_workspace/install/euler_to_quat:/opt/ros/humble /usr/bin/cmake /home/anoushka/ros_workspace/src/rrbot_simulation_files/rrbot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/anoushka/ros_workspace/src/install/rrbot_description
+[0.463s] Invoking command in '/home/anoushka/ros_workspace/src/build/rrbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/anoushka/ros_workspace/install/my_package:/home/anoushka/ros_workspace/install/euler_to_quat:/opt/ros/humble /usr/bin/cmake --build /home/anoushka/ros_workspace/src/build/rrbot_description -- -j12 -l12
+[0.497s] Invoked command in '/home/anoushka/ros_workspace/src/build/rrbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/anoushka/ros_workspace/install/my_package:/home/anoushka/ros_workspace/install/euler_to_quat:/opt/ros/humble /usr/bin/cmake --build /home/anoushka/ros_workspace/src/build/rrbot_description -- -j12 -l12
+[0.522s] Invoking command in '/home/anoushka/ros_workspace/src/build/rrbot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/anoushka/ros_workspace/install/my_package:/home/anoushka/ros_workspace/install/euler_to_quat:/opt/ros/humble /usr/bin/cmake --install /home/anoushka/ros_workspace/src/build/rrbot_description
+[0.525s] -- Install configuration: ""
+[0.526s] -- Execute custom install script
+[0.526s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/config/rrbot.rviz
+[0.531s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/gazebo/rrbot.gazebo.xacro
+[0.537s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/gazebo/rrbot.materials.xacro
+[0.542s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/meshes/hokuyo.dae
+[0.548s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/launch/view_robot.launch.py
+[0.555s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/ros2_control/rrbot.ros2_control.xacro
+[0.563s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/urdf/rrbot.urdf.xacro
+[0.570s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/urdf/rrbot_description.urdf.xacro
+[0.578s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/environment/rrbot_description.dsv
+[0.586s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/ament_index/resource_index/package_run_dependencies/rrbot_description
+[0.593s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/ament_index/resource_index/parent_prefix_path/rrbot_description
+[0.600s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/environment/ament_prefix_path.sh
+[0.607s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/environment/ament_prefix_path.dsv
+[0.614s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/environment/path.sh
+[0.622s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/environment/path.dsv
+[0.629s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/local_setup.bash
+[0.637s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/local_setup.sh
+[0.644s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/local_setup.zsh
+[0.652s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/local_setup.dsv
+[0.659s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/package.dsv
+[0.666s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/ament_index/resource_index/packages/rrbot_description
+[0.674s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/cmake/rrbot_descriptionConfig.cmake
+[0.681s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/cmake/rrbot_descriptionConfig-version.cmake
+[0.689s] -- Symlinking: /home/anoushka/ros_workspace/src/install/rrbot_description/share/rrbot_description/package.xml
+[0.698s] Invoked command in '/home/anoushka/ros_workspace/src/build/rrbot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/anoushka/ros_workspace/install/my_package:/home/anoushka/ros_workspace/install/euler_to_quat:/opt/ros/humble /usr/bin/cmake --install /home/anoushka/ros_workspace/src/build/rrbot_description

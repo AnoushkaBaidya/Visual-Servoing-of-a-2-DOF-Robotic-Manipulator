@@ -1,0 +1,25 @@
+[1.245s] Invoking command in '/home/anoushka/ros_workspace/src/build/opencv_test_py': PYTHONPATH=/home/anoushka/ros_workspace/src/install/opencv_test_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/anoushka/ros_workspace/src/install/opencv_test_py --editable --build-directory /home/anoushka/ros_workspace/src/build/opencv_test_py/build --no-deps install_data --install-dir /home/anoushka/ros_workspace/src/install/opencv_test_py
+[1.554s] running develop
+[1.554s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.555s]   warnings.warn(
+[1.556s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.556s]   warnings.warn(
+[1.618s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.618s]   warnings.warn(
+[1.618s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.618s]   warnings.warn(
+[1.727s] running egg_info
+[1.728s] writing opencv_test_py.egg-info/PKG-INFO
+[1.728s] writing dependency_links to opencv_test_py.egg-info/dependency_links.txt
+[1.728s] writing entry points to opencv_test_py.egg-info/entry_points.txt
+[1.728s] writing requirements to opencv_test_py.egg-info/requires.txt
+[1.728s] writing top-level names to opencv_test_py.egg-info/top_level.txt
+[1.730s] reading manifest file 'opencv_test_py.egg-info/SOURCES.txt'
+[1.731s] writing manifest file 'opencv_test_py.egg-info/SOURCES.txt'
+[1.733s] running build_ext
+[1.733s] Creating /home/anoushka/ros_workspace/src/install/opencv_test_py/lib/python3.10/site-packages/opencv-test-py.egg-link (link to .)
+[1.734s] Installing image_processor script to /home/anoushka/ros_workspace/src/install/opencv_test_py/lib/opencv_test_py
+[1.734s] 
+[1.734s] Installed /home/anoushka/ros_workspace/src/build/opencv_test_py
+[1.735s] running install_data
+[1.775s] Invoked command in '/home/anoushka/ros_workspace/src/build/opencv_test_py' returned '0': PYTHONPATH=/home/anoushka/ros_workspace/src/install/opencv_test_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/anoushka/ros_workspace/src/install/opencv_test_py --editable --build-directory /home/anoushka/ros_workspace/src/build/opencv_test_py/build --no-deps install_data --install-dir /home/anoushka/ros_workspace/src/install/opencv_test_py

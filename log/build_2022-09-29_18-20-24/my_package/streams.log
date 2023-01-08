@@ -1,0 +1,25 @@
+[1.147s] Invoking command in '/home/anoushka/ros_workspace/src/build/my_package': PYTHONPATH=/home/anoushka/ros_workspace/src/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/anoushka/ros_workspace/src/install/my_package --editable --build-directory /home/anoushka/ros_workspace/src/build/my_package/build --no-deps install_data --install-dir /home/anoushka/ros_workspace/src/install/my_package
+[1.527s] running develop
+[1.527s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.527s]   warnings.warn(
+[1.532s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.532s]   warnings.warn(
+[1.612s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.612s]   warnings.warn(
+[1.612s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.612s]   warnings.warn(
+[1.755s] running egg_info
+[1.755s] writing my_package.egg-info/PKG-INFO
+[1.755s] writing dependency_links to my_package.egg-info/dependency_links.txt
+[1.755s] writing entry points to my_package.egg-info/entry_points.txt
+[1.755s] writing requirements to my_package.egg-info/requires.txt
+[1.755s] writing top-level names to my_package.egg-info/top_level.txt
+[1.757s] reading manifest file 'my_package.egg-info/SOURCES.txt'
+[1.757s] writing manifest file 'my_package.egg-info/SOURCES.txt'
+[1.758s] running build_ext
+[1.758s] Creating /home/anoushka/ros_workspace/src/install/my_package/lib/python3.10/site-packages/my-package.egg-link (link to .)
+[1.759s] Installing my_node script to /home/anoushka/ros_workspace/src/install/my_package/lib/my_package
+[1.759s] 
+[1.759s] Installed /home/anoushka/ros_workspace/src/build/my_package
+[1.760s] running install_data
+[1.787s] Invoked command in '/home/anoushka/ros_workspace/src/build/my_package' returned '0': PYTHONPATH=/home/anoushka/ros_workspace/src/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/anoushka/ros_workspace/src/install/my_package --editable --build-directory /home/anoushka/ros_workspace/src/build/my_package/build --no-deps install_data --install-dir /home/anoushka/ros_workspace/src/install/my_package

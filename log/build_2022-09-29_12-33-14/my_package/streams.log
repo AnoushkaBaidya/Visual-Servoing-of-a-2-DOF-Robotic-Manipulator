@@ -1,0 +1,34 @@
+[0.782s] Invoking command in '/home/anoushka/ros_workspace/src/build/my_package': PYTHONPATH=/home/anoushka/ros_workspace/src/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/anoushka/ros_workspace/src/install/my_package --uninstall --editable --build-directory /home/anoushka/ros_workspace/src/build/my_package/build
+[0.987s] running develop
+[0.988s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.988s]   warnings.warn(
+[0.988s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.988s]   warnings.warn(
+[1.017s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.017s]   warnings.warn(
+[1.017s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.018s]   warnings.warn(
+[1.095s] Invoked command in '/home/anoushka/ros_workspace/src/build/my_package' returned '0': PYTHONPATH=/home/anoushka/ros_workspace/src/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/anoushka/ros_workspace/src/install/my_package --uninstall --editable --build-directory /home/anoushka/ros_workspace/src/build/my_package/build
+[1.095s] Invoking command in '/home/anoushka/ros_workspace/src/my_package': PYTHONPATH=/home/anoushka/ros_workspace/src/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/my_package build --build-base /home/anoushka/ros_workspace/src/build/my_package/build install --prefix /home/anoushka/ros_workspace/src/install/my_package --record /home/anoushka/ros_workspace/src/build/my_package/install.log --single-version-externally-managed
+[1.227s] running egg_info
+[1.228s] writing ../build/my_package/my_package.egg-info/PKG-INFO
+[1.228s] writing dependency_links to ../build/my_package/my_package.egg-info/dependency_links.txt
+[1.228s] writing entry points to ../build/my_package/my_package.egg-info/entry_points.txt
+[1.228s] writing requirements to ../build/my_package/my_package.egg-info/requires.txt
+[1.228s] writing top-level names to ../build/my_package/my_package.egg-info/top_level.txt
+[1.229s] reading manifest file '../build/my_package/my_package.egg-info/SOURCES.txt'
+[1.230s] writing manifest file '../build/my_package/my_package.egg-info/SOURCES.txt'
+[1.230s] running build
+[1.230s] running build_py
+[1.230s] running install
+[1.230s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.230s]   warnings.warn(
+[1.230s] running install_lib
+[1.230s] running install_data
+[1.231s] running install_egg_info
+[1.232s] removing '/home/anoushka/ros_workspace/src/install/my_package/lib/python3.10/site-packages/my_package-0.0.0-py3.10.egg-info' (and everything under it)
+[1.232s] Copying ../build/my_package/my_package.egg-info to /home/anoushka/ros_workspace/src/install/my_package/lib/python3.10/site-packages/my_package-0.0.0-py3.10.egg-info
+[1.232s] running install_scripts
+[1.246s] Installing my_node script to /home/anoushka/ros_workspace/src/install/my_package/lib/my_package
+[1.246s] writing list of installed files to '/home/anoushka/ros_workspace/src/build/my_package/install.log'
+[1.263s] Invoked command in '/home/anoushka/ros_workspace/src/my_package' returned '0': PYTHONPATH=/home/anoushka/ros_workspace/src/install/my_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/my_package build --build-base /home/anoushka/ros_workspace/src/build/my_package/build install --prefix /home/anoushka/ros_workspace/src/install/my_package --record /home/anoushka/ros_workspace/src/build/my_package/install.log --single-version-externally-managed

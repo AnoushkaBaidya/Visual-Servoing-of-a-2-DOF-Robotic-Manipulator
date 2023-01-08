@@ -1,0 +1,20 @@
+running develop
+running egg_info
+writing ../build/opencv_test_py/opencv_test_py.egg-info/PKG-INFO
+writing dependency_links to ../build/opencv_test_py/opencv_test_py.egg-info/dependency_links.txt
+writing entry points to ../build/opencv_test_py/opencv_test_py.egg-info/entry_points.txt
+writing requirements to ../build/opencv_test_py/opencv_test_py.egg-info/requires.txt
+writing top-level names to ../build/opencv_test_py/opencv_test_py.egg-info/top_level.txt
+reading manifest file '../build/opencv_test_py/opencv_test_py.egg-info/SOURCES.txt'
+writing manifest file '../build/opencv_test_py/opencv_test_py.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/anoushka/ros_workspace/src/install/opencv_test_py/lib/python3.10/site-packages/opencv_test_py-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/opencv_test_py/opencv_test_py.egg-info to /home/anoushka/ros_workspace/src/install/opencv_test_py/lib/python3.10/site-packages/opencv_test_py-0.0.0-py3.10.egg-info
+running install_scripts
+Installing image_processor script to /home/anoushka/ros_workspace/src/install/opencv_test_py/lib/opencv_test_py
+writing list of installed files to '/home/anoushka/ros_workspace/src/build/opencv_test_py/install.log'

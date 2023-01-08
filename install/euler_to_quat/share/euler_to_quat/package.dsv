@@ -1,0 +1,9 @@
+source;share/euler_to_quat/hook/pythonpath.ps1
+source;share/euler_to_quat/hook/pythonpath.dsv
+source;share/euler_to_quat/hook/pythonpath.sh
+source;share/euler_to_quat/hook/ament_prefix_path.ps1
+source;share/euler_to_quat/hook/ament_prefix_path.dsv
+source;share/euler_to_quat/hook/ament_prefix_path.sh
+source;../../build/euler_to_quat/share/euler_to_quat/hook/pythonpath_develop.ps1
+source;../../build/euler_to_quat/share/euler_to_quat/hook/pythonpath_develop.dsv
+source;../../build/euler_to_quat/share/euler_to_quat/hook/pythonpath_develop.sh

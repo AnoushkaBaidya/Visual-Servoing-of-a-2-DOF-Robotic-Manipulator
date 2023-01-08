@@ -1,0 +1,1 @@
+/home/anoushka/ros_workspace/src/build/rrbot_description/ament_cmake_core/rrbot_descriptionConfig.cmake

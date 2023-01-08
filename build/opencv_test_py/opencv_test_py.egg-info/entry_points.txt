@@ -1,0 +1,3 @@
+[console_scripts]
+image_processor = opencv_test_py.test1:main
+

@@ -1,0 +1,34 @@
+[0.768s] Invoking command in '/home/anoushka/ros_workspace/src/build/opencv_test_py': PYTHONPATH=/home/anoushka/ros_workspace/src/install/opencv_test_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/anoushka/ros_workspace/src/install/opencv_test_py --uninstall --editable --build-directory /home/anoushka/ros_workspace/src/build/opencv_test_py/build
+[0.963s] running develop
+[0.963s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.963s]   warnings.warn(
+[0.963s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.964s]   warnings.warn(
+[0.992s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[0.992s]   warnings.warn(
+[0.992s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[0.992s]   warnings.warn(
+[1.069s] Invoked command in '/home/anoushka/ros_workspace/src/build/opencv_test_py' returned '0': PYTHONPATH=/home/anoushka/ros_workspace/src/install/opencv_test_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --prefix /home/anoushka/ros_workspace/src/install/opencv_test_py --uninstall --editable --build-directory /home/anoushka/ros_workspace/src/build/opencv_test_py/build
+[1.069s] Invoking command in '/home/anoushka/ros_workspace/src/opencv_test_py': PYTHONPATH=/home/anoushka/ros_workspace/src/install/opencv_test_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/opencv_test_py build --build-base /home/anoushka/ros_workspace/src/build/opencv_test_py/build install --prefix /home/anoushka/ros_workspace/src/install/opencv_test_py --record /home/anoushka/ros_workspace/src/build/opencv_test_py/install.log --single-version-externally-managed
+[1.202s] running egg_info
+[1.202s] writing ../build/opencv_test_py/opencv_test_py.egg-info/PKG-INFO
+[1.202s] writing dependency_links to ../build/opencv_test_py/opencv_test_py.egg-info/dependency_links.txt
+[1.202s] writing entry points to ../build/opencv_test_py/opencv_test_py.egg-info/entry_points.txt
+[1.203s] writing requirements to ../build/opencv_test_py/opencv_test_py.egg-info/requires.txt
+[1.203s] writing top-level names to ../build/opencv_test_py/opencv_test_py.egg-info/top_level.txt
+[1.204s] reading manifest file '../build/opencv_test_py/opencv_test_py.egg-info/SOURCES.txt'
+[1.204s] writing manifest file '../build/opencv_test_py/opencv_test_py.egg-info/SOURCES.txt'
+[1.204s] running build
+[1.205s] running build_py
+[1.205s] running install
+[1.205s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.205s]   warnings.warn(
+[1.205s] running install_lib
+[1.205s] running install_data
+[1.205s] running install_egg_info
+[1.206s] removing '/home/anoushka/ros_workspace/src/install/opencv_test_py/lib/python3.10/site-packages/opencv_test_py-0.0.0-py3.10.egg-info' (and everything under it)
+[1.207s] Copying ../build/opencv_test_py/opencv_test_py.egg-info to /home/anoushka/ros_workspace/src/install/opencv_test_py/lib/python3.10/site-packages/opencv_test_py-0.0.0-py3.10.egg-info
+[1.207s] running install_scripts
+[1.220s] Installing image_processor script to /home/anoushka/ros_workspace/src/install/opencv_test_py/lib/opencv_test_py
+[1.220s] writing list of installed files to '/home/anoushka/ros_workspace/src/build/opencv_test_py/install.log'
+[1.237s] Invoked command in '/home/anoushka/ros_workspace/src/opencv_test_py' returned '0': PYTHONPATH=/home/anoushka/ros_workspace/src/install/opencv_test_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/opencv_test_py build --build-base /home/anoushka/ros_workspace/src/build/opencv_test_py/build install --prefix /home/anoushka/ros_workspace/src/install/opencv_test_py --record /home/anoushka/ros_workspace/src/build/opencv_test_py/install.log --single-version-externally-managed

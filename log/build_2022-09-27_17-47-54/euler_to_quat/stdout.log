@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating euler_to_quat.egg-info
+writing euler_to_quat.egg-info/PKG-INFO
+writing dependency_links to euler_to_quat.egg-info/dependency_links.txt
+writing entry points to euler_to_quat.egg-info/entry_points.txt
+writing requirements to euler_to_quat.egg-info/requires.txt
+writing top-level names to euler_to_quat.egg-info/top_level.txt
+writing manifest file 'euler_to_quat.egg-info/SOURCES.txt'
+reading manifest file 'euler_to_quat.egg-info/SOURCES.txt'
+writing manifest file 'euler_to_quat.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/anoushka/ros_workspace/src/install/euler_to_quat/lib/python3.10/site-packages/euler-to-quat.egg-link (link to .)
+Installing listener script to /home/anoushka/ros_workspace/src/install/euler_to_quat/lib/euler_to_quat
+
+Installed /home/anoushka/ros_workspace/src/build/euler_to_quat
+running install_data
+creating /home/anoushka/ros_workspace/src/install/euler_to_quat/share/ament_index
+creating /home/anoushka/ros_workspace/src/install/euler_to_quat/share/ament_index/resource_index
+creating /home/anoushka/ros_workspace/src/install/euler_to_quat/share/ament_index/resource_index/packages
+copying resource/euler_to_quat -> /home/anoushka/ros_workspace/src/install/euler_to_quat/share/ament_index/resource_index/packages
+copying package.xml -> /home/anoushka/ros_workspace/src/install/euler_to_quat/share/euler_to_quat

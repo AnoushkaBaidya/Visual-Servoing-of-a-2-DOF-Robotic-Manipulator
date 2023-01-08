@@ -1,0 +1,10 @@
+/home/anoushka/ros_workspace/src/build/rrbot_gazebo/CMakeFiles/uninstall.dir
+/home/anoushka/ros_workspace/src/build/rrbot_gazebo/CMakeFiles/rrbot_gazebo_uninstall.dir
+/home/anoushka/ros_workspace/src/build/rrbot_gazebo/CMakeFiles/publisher.dir
+/home/anoushka/ros_workspace/src/build/rrbot_gazebo/CMakeFiles/test.dir
+/home/anoushka/ros_workspace/src/build/rrbot_gazebo/CMakeFiles/edit_cache.dir
+/home/anoushka/ros_workspace/src/build/rrbot_gazebo/CMakeFiles/rebuild_cache.dir
+/home/anoushka/ros_workspace/src/build/rrbot_gazebo/CMakeFiles/list_install_components.dir
+/home/anoushka/ros_workspace/src/build/rrbot_gazebo/CMakeFiles/install.dir
+/home/anoushka/ros_workspace/src/build/rrbot_gazebo/CMakeFiles/install/local.dir
+/home/anoushka/ros_workspace/src/build/rrbot_gazebo/CMakeFiles/install/strip.dir

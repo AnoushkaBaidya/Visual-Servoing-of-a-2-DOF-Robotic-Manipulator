@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+euler_to_quat/__init__.py
+euler_to_quat/sub_eu.py
+euler_to_quat.egg-info/PKG-INFO
+euler_to_quat.egg-info/SOURCES.txt
+euler_to_quat.egg-info/dependency_links.txt
+euler_to_quat.egg-info/entry_points.txt
+euler_to_quat.egg-info/requires.txt
+euler_to_quat.egg-info/top_level.txt
+euler_to_quat.egg-info/zip-safe
+resource/euler_to_quat
